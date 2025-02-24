@@ -1,0 +1,7 @@
+1. git branch yangi_nom
+2. git checkout yangi_nom
+3. git add .
+4. git commmit -m ""
+5. git push origin yangi_nom
+
+6. git pull origin branch_nomi
